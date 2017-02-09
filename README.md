@@ -1,10 +1,14 @@
 # BANKRUPT
+###Screenshots
+![alt text](https://github.com/ridhanadhirafebyani/Ridha-ATM/blob/master/satu.PNG)<br>
+![alt text](https://github.com/ridhanadhirafebyani/Ridha-ATM/blob/master/dua.PNG)<br>
+![alt text](https://github.com/ridhanadhirafebyani/Ridha-ATM/blob/master/tiga.PNG)<br>
+![alt text](https://github.com/ridhanadhirafebyani/Ridha-ATM/blob/master/empat.PNG)<br>
+![alt text](https://github.com/ridhanadhirafebyani/Ridha-ATM/blob/master/lima.PNG)<br>
 
-![Screenshot](https://raw.githubusercontent.com/ilhamizzul/BANKRUPT/master/1.JPG)
-![Screenshot](https://raw.githubusercontent.com/ilhamizzul/BANKRUPT/master/2.JPG)
-![Screenshot](https://raw.githubusercontent.com/ilhamizzul/BANKRUPT/master/3.JPG)
-![Screenshot](https://raw.githubusercontent.com/ilhamizzul/BANKRUPT/master/4.JPG)
-![Screenshot](https://raw.githubusercontent.com/ilhamizzul/BANKRUPT/master/5.JPG)
-![Screenshot](https://raw.githubusercontent.com/ilhamizzul/BANKRUPT/master/6.JPG)
-
- Ilham Izzul Hadyan -- XI RPL 2 -- 10 -- 4724/1443.070 -- SMK TELKOM MALANG
+###Data Diri
+Nama : Ridha Nadhira Febyani <br>
+Kelas : XI RPL 5<br>
+No Urut : 27<br>
+NIS : 4812/1531.070<br>
+Asal Sekolah : Telkom School SMK Telkom Malang
