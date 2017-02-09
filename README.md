@@ -1,4 +1,4 @@
-# BANKRUPT
+# Bank BNI-SYARIAH Malang
 ###Screenshots
 ![alt text](https://github.com/ridhanadhirafebyani/Ridha-ATM/blob/master/satu.PNG)<br>
 ![alt text](https://github.com/ridhanadhirafebyani/Ridha-ATM/blob/master/dua.PNG)<br>
